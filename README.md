@@ -37,8 +37,8 @@
 
 ### 🔗 Let's Connect
 - 📧 **Email:** bkbimal250@gmail.com  
-- 🌐 [LinkedIn (optional)](https://www.linkedin.com/)  
-- 🧑‍💻 [Portfolio (optional)](https://yourportfolio.com)
+- 🌐 (https://www.linkedin.com/in/bkbimal/)  
+- 🧑‍💻 (https://bkbimalportfolio.netlify.app/)
 
 ---
 
